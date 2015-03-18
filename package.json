@@ -1,0 +1,28 @@
+{
+  "name": "google-contacts-fetch",
+  "version": "1.0.0",
+  "description": "Getting Contacts From Google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/priyank2005/google-contacts.git"
+  },
+  "keywords": [
+    "Google",
+    "Contacts"
+  ],
+  "author": "Priyank Jain <priyankjlns@gmail.com> (http://wget.io/~priyank)",
+  "bugs": {
+    "url": "https://github.com/priyank2005/google-contacts/issues"
+  },
+  "homepage": "https://github.com/priyank2005/google-contacts",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^2.0.2",
+    "gravatar": "^1.1.0",
+    "request": "^2.53.0"
+  }
+}
